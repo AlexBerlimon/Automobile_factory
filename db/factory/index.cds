@@ -1,9 +1,8 @@
-using from './car';
-using from './customer';
-using from './department';
-using from './employee';
-using from './manufacturer';
-using from './model';
-using from './order';
-using from './part';
-using from './supplier';
+using from './cars';
+using from './departments';
+using from './employees';
+using from './manufacturers';
+using from './models';
+using from './orders';
+using from './parts';
+using from './suppliers';
